@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/home/user5/Projects/Tweezer/GUI/dashboard_gui.py", line 76, in <module>
+    from slm_config.slm_config_manager import SlmConfigManager, SlmConfig  # type: ignore  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'slm_config'

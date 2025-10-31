@@ -1,0 +1,94 @@
+2025-10-31 16:00:28,522 - root - WARNING - Could not detect monitors or move viewport: module 'dearpygui.dearpygui' has no attribute 'get_monitor_count'
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2716: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2718: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2727: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2729: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2749: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2758: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2769: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2811: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2813: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2889: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2906: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2914: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2916: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2930: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2932: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2938: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2941: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2949: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=3)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2941: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2949: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=3)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2952: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2954: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2960: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2968: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2970: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:2972: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3075: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3169: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3184: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3210: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3290: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3309: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3311: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3317: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3321: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3324: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3352: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3377: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3403: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3406: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3421: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3447: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3467: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3470: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3477: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=2)
+/home/user5/Projects/Tweezer/GUI/dashboard_gui.py:3479: DeprecationWarning: Call to deprecated function add_spacing (Use: add_spacer(...)).
+  dpg.add_spacing(count=1)
+2025-10-31 16:00:35,902 - root - INFO - Disconnected from SLM generator

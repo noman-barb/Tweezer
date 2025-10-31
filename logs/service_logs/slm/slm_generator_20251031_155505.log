@@ -1,0 +1,5 @@
+Command: /bin/bash -c source $(conda info --base)/etc/profile.d/conda.sh && conda activate tweezer && python -u /home/user5/Projects/Tweezer/SLM/slm-control-server/generator_service.py --bind 192.168.6.1:50053 --slm-target 192.168.6.2:50051 --fire-and-forget --width 1920 --height 1152 --iterations 50
+Log file: /home/user5/Projects/Tweezer/logs/service_logs/slm/slm_generator_20251031_155505.log
+================================================================================
+[GPU SELECTED] Using device 0: NVIDIA RTX A4000
+2025-10-31 15:55:06,831 INFO warming up GS engine for 1920x1152

@@ -1,0 +1,5 @@
+Command: /bin/bash -c source $(conda info --base)/etc/profile.d/conda.sh && conda activate tweezer && python -u /home/user5/Projects/Tweezer/Arduino/rpc/grpc_server_streaming.py --serial_port /dev/ttyACM0 --host 0.0.0.0 --port 50051 --baud 2000000 --timeout 0.3499999940395355 --max-workers 2 --log-level INFO
+Log file: /home/user5/Projects/Tweezer/logs/service_logs/arduino_grpc_server/arduino_grpc_20251031_145232.log
+================================================================================
+usage: grpc_server_streaming.py [-h] [--count COUNT] target pin
+grpc_server_streaming.py: error: argument pin: invalid int value: '0.0.0.0'

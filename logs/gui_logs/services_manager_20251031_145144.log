@@ -1,0 +1,2 @@
+Error: Config file not found: /home/user5/Projects/Tweezer/GUI/services_config.yaml
+Usage: python services_manager_gui.py [config_file]
